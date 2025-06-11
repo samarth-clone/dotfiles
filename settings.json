@@ -1,0 +1,49 @@
+{
+    "python.defaultInterpreterPath": "/home/archie/miniconda3/envs/geneva",
+    "files.autoSaveDelay": 0,
+    "files.autoSave": "afterDelay",
+    "github.copilot.preferredAccount": "SamarthBhatY",
+    "java.configuration.runtimes": [
+
+        {
+            "name": "JavaSE-23",
+            "path": "/usr/lib/jvm/java-23-openjdk",
+            "default": true
+        },
+
+    ],
+    "git.openRepositoryInParentFolders": "never",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.sideBar.location": "right",
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.tips.enabled": false,
+    "workbench.activityBar.location": "bottom",
+    "editor.minimap.enabled": false, 
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.fontFamily": "Monaspace Krypton Var Upright",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "550",
+    "editor.fontSize": 14,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "glassit.step":2,
+    "glassit.alpha": 253,
+    "vscode_custom_css.imports": [
+    "file:///home/archie/.config/vscode/custom-ui.css"
+],
+"workbench.startupEditor": "none",
+"github.copilot.nextEditSuggestions.enabled": false,
+"gitlens.rebaseEditor.ordering": "asc",
+"github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "java": false
+}
+                
+    }
